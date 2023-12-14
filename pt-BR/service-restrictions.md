@@ -38,10 +38,7 @@ O valor máximo das compras por encomenda (1 pacote) é de US$ 3.000,00
 
 ## Você pode rever mais restrições nos seguintes links
 
-- <http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&amp;idAto=86226>
-
 - [IN RFB Nº 1737 – 2017](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&amp;idAto=86226)
-
 - [normas.receita.fazenda.gov.br](http://normas.receita.fazenda.gov.br/)
 
 Dispõe sobre o tratamento tributário e os procedimentos de controle
