@@ -1,4 +1,4 @@
-# Itens não aceitos pelo serviço
+## Itens não aceitos pelo serviço
 
 Prezado cliente, antes de efetuar suas compras, verifique se os produtos
 pretendidos são permitidos para importação no Brasil transportadas como

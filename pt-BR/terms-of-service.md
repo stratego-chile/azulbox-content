@@ -1,5 +1,3 @@
-# Termos e serviços
-
 Neste Conhecimento Aéreo Internacional, “nós”, “nosso”, “nos” e “Azul”
 referem-se à Azul Linhas Aéreas Brasileiras S.A., às suas subsidiárias e
 filiais e aos seus respectivos funcionários, agentes e fornecedores
