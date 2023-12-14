@@ -7,6 +7,7 @@ Remessa Expressa Internacional.
 ## Restrições por peso e dimensões das encomendas
 
 Peso máximo : 30 Quilos
+
 Dimensões máximas : 100 x 80 x 75 cm
 
 ## Restrições por valor de compras
