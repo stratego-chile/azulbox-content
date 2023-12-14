@@ -29,7 +29,7 @@ transferir dinheiro para o PayPal.
 
 Para mais informações, por favor entre em contato com a nossa central
 de atendimento através do telefone do Brasil: xxxxx-xxxx | E.U.A.:
-xxxx-xxxx ou por e-mail <azulbox@azulbox.com.br>
+xxxx-xxxx ou por e-mail [azulbox@azulbox.com.br](mailto:azulbox@azulbox.com.br)
 
 ## O valor é em dólar?
 
