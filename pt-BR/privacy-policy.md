@@ -14,7 +14,7 @@ instantes para ler nossa Política de Privacidade antes de iniciar o
 procedimento de registro e uso do serviço de envio de remessas em
 nosso portal.
 
-O portal [www.azulbox.com.br](www.azulbox.com.br) é um serviço online de informações,
+O portal [https://www.azulbox.com.br](https://www.azulbox.com.br) é um serviço online de informações,
 comunicação e venda de serviços prestados pela AZULBOX. Por meio do
 uso deste portal, ou da cópia das informações nele contidas, o cliente
 expressa seu consentimento em observar os termos e condições previstos
@@ -25,7 +25,7 @@ utilize este portal, nem copie informações aqui contidas.
 A AZULBOX se reserva no direito de alterar esta Política de
 Privacidade para adaptá-la à legislação aplicável ou às boas práticas
 comerciais de uso da internet. A AZULBOX comunicará eventuais mudanças
-em seu portal [www.azulbox.com.br](www.azulbox.com.br) com a devida antecedência.
+em seu portal [https://www.azulbox.com.br](https://www.azulbox.com.br) com a devida antecedência.
 
 ## Informações pessoais
 
